@@ -1,0 +1,106 @@
+{
+  "name": "Marahib",
+  "sub": "Couture",
+  "tagline": "Tailleur · Fass Mbao, Dakar",
+  "lead": "Tenues traditionnelles cousues sur mesure. Choisissez votre modèle, apportez votre tissu ou choisissez-en un avec nous.",
+  "wolof": "",
+  "heroPhoto": "images/accueil.jpg",
+  "modelsTitle": "Faites votre choix",
+  "modelsSub": "Cinq modèles cousus à vos mesures. Envoyez le nom du modèle sur WhatsApp pour un devis.",
+  "models": [
+    {
+      "name": "Bay Lahat",
+      "desc": "Coupe ample et broderie travaillée, pour les grandes occasions.",
+      "photo": "",
+      "price": "",
+      "cat": "Homme"
+    },
+    {
+      "name": "Bay Sonhibou",
+      "desc": "Une tenue élégante, ajustée à votre taille.",
+      "photo": "",
+      "price": "",
+      "cat": "Homme"
+    },
+    {
+      "name": "Turki Ndiareme",
+      "desc": "Coupe à la turque, finitions soignées au col et aux poignets.",
+      "photo": "",
+      "price": "",
+      "cat": "Homme"
+    },
+    {
+      "name": "Fakhaya",
+      "desc": "Un modèle sobre et confortable pour tous les jours.",
+      "photo": "",
+      "price": "",
+      "cat": "Homme"
+    },
+    {
+      "name": "Trois pièces",
+      "desc": "Boubou, chemise et pantalon assortis dans le même tissu.",
+      "photo": "",
+      "price": "",
+      "cat": "Homme"
+    }
+  ],
+  "aboutTitle": "L'atelier",
+  "aboutText": "",
+  "aboutPhoto": "",
+  "gallery": [],
+  "reviews": [],
+  "services": [],
+  "delay": "",
+  "festiveDelay": "",
+  "measuresIntro": "Vous ne pouvez pas passer à l'atelier ? Prenez ces mesures avec un mètre ruban, en centimètres, et envoyez-les sur WhatsApp.",
+  "measures": [
+    {
+      "name": "Tour de cou",
+      "desc": "Autour de la base du cou, un doigt glissé sous le mètre."
+    },
+    {
+      "name": "Largeur d'épaules",
+      "desc": "D'une pointe d'épaule à l'autre, en passant par le dos."
+    },
+    {
+      "name": "Tour de poitrine",
+      "desc": "Sous les bras, à l'endroit le plus fort, mètre bien horizontal."
+    },
+    {
+      "name": "Tour de ventre",
+      "desc": "Au niveau du nombril, sans serrer."
+    },
+    {
+      "name": "Tour de hanches",
+      "desc": "À l'endroit le plus large du bassin."
+    },
+    {
+      "name": "Longueur de manche",
+      "desc": "De la pointe de l'épaule au poignet, bras légèrement plié."
+    },
+    {
+      "name": "Longueur de la tenue",
+      "desc": "Du haut de l'épaule jusqu'où la tenue doit tomber."
+    },
+    {
+      "name": "Longueur du pantalon",
+      "desc": "De la taille jusqu'à la cheville, sur le côté."
+    },
+    {
+      "name": "Tour de cuisse",
+      "desc": "Au plus large de la cuisse."
+    },
+    {
+      "name": "Tour de bas",
+      "desc": "Largeur souhaitée en bas du pantalon."
+    }
+  ],
+  "phone": "777031934",
+  "place": "Fass Mbao",
+  "city": "Dakar, Sénégal",
+  "hours": "",
+  "mapsUrl": "",
+  "facebook": "",
+  "instagram": "",
+  "tiktok": ""
+}
